@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: linear-gradient(to right, #030712,#22255c,#181b45,#101432,#1b1938,#030712);
+  
+}
+@media (max-width:720px){
+  .maindiv{
+    padding: 0 150px;
+  }
+}
